@@ -1,0 +1,7 @@
+building tools=300000
+shelter equipment=100000
+construction equipment=100000
+plants=20000
+steel=150000
+books=20000
+water=150000
